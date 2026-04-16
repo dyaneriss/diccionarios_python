@@ -8,7 +8,7 @@ conceptos y ejercicios de diccionarios en pythoon
 
 ## Representacion gráfica den un diccionario
 
-![dicionarios en Python](diccionario.png "diccionarios en Python")
+![](diccionarios.png)
 
 # Sintaxis
 `nombre_diccionario = {clave1:valor1 clave2:valor2,....}`
